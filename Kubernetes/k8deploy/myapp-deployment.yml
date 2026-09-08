@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: newdemok8s
-        image: richapanjabi/firstdockerimage:v1
+        image: mosops/firstdockerimage:v1
         ports:
         - containerPort: 80
